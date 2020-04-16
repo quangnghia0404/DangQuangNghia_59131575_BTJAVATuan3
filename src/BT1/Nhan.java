@@ -2,14 +2,13 @@
 package BT1;
 
 
-public class Cong implements ITinh{
-
-    public Cong() {
+public class Nhan implements ITinh{
+    public Nhan() {
     }
     
     @Override
     public float tinh(float a, float b) {
-        return a + b;
+        return a * b;
     }
     
 }
