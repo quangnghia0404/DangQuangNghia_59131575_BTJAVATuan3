@@ -16,6 +16,7 @@ public class Main1 {
         
         CT.setTinhToan(new Tru());
         System.out.println("Thực hiện pháp tính trừ (18-50) :"+CT.tinh(18, 50));
+        
     }
     
 }
