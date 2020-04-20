@@ -25,7 +25,7 @@ public class Main2 {
        System.out.println("Danh sách hàng hóa giỏ hàng 1(online)");
        GH1.hienthi();
        System.out.println("Giỏ hàng 1 : Tổng tiền hàng :"+GH1.tinhTienHang()+", Tiền khách trả : "+GH1.tinhTienKhachTra());
-        System.out.println("\n");
+       System.out.println("\n");
        
        System.out.println("Danh sách hàng hóa giỏ hàng 2(COD)");
        GH1.hienthi();
